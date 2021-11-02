@@ -1,0 +1,15 @@
+2021/10/31-14:54:08.410 1c2b Reusing MANIFEST /home/liam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/31-14:54:08.410 1c2b Recovering log #4
+2021/10/31-14:54:08.410 1c2b Reusing old log /home/liam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2021/10/31-15:38:55.219 1c2e Level-0 table #8: started
+2021/10/31-15:38:55.222 1c2e Level-0 table #8: 190 bytes OK
+2021/10/31-15:38:55.228 1c2e Delete type=0 #4
+2021/10/31-15:38:55.228 1c2e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/31-15:38:55.228 1c2e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 678 : 1
+2021/10/31-15:38:55.228 1c2e Compacting 1@1 + 1@2 files
+2021/10/31-15:38:55.232 1c2e Generated table #9@1: 206 keys, 3129 bytes
+2021/10/31-15:38:55.232 1c2e Compacted 1@1 + 1@2 files => 3129 bytes
+2021/10/31-15:38:55.238 1c2e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/31-15:38:55.238 1c2e Delete type=2 #5
+2021/10/31-15:38:55.238 1c2e Delete type=2 #8
+2021/10/31-15:38:55.238 1c2e Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 678 : 1 .. (end); will stop at (end)

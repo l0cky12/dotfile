@@ -1,0 +1,47 @@
+{
+   "checksum": "65a3c07999dfe495cf1bd599f727e3a2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13280036864539923",
+            "guid": "c40f406c-415c-4a72-91bb-2b35a31f91a5",
+            "id": "5",
+            "name": "Roblox",
+            "type": "url",
+            "url": "https://web.archive.org/web/20200530145538/https://www.roblox.com/NewLogin"
+         }, {
+            "date_added": "13280189562217250",
+            "guid": "b4d2f245-58fd-4935-a050-e90ee579c643",
+            "id": "7",
+            "name": "Heimdall",
+            "type": "url",
+            "url": "http://192.168.0.110:49154/"
+         } ],
+         "date_added": "13280036818528717",
+         "date_modified": "13280189562217250",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13280036818528718",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13280036818528719",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

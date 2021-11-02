@@ -1,0 +1,6 @@
+2021/10/30-12:59:28.057 2b14 Creating DB /home/liam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2021/10/30-12:59:28.067 2b14 Reusing MANIFEST /home/liam/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/30-13:16:19.361 2d7d Level-0 table #5: started
+2021/10/30-13:16:19.364 2d7d Level-0 table #5: 11655 bytes OK
+2021/10/30-13:16:19.370 2d7d Delete type=0 #3
+2021/10/30-13:16:19.370 2d7d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
